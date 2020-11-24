@@ -1,2 +1,4 @@
 # PasswordGenerator
-random password generator
+
+
+Password generation program using python
