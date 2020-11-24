@@ -8,9 +8,9 @@ sayı = int(input(sayı))
 uzunluk = ("Şifrenizin uzunluğu ne kadar olsun?")
 uzunluk = int(input(uzunluk))
 
-for p in range(sayı):
+for i in range(sayı):
     şifre = " "
-    for c in range(uzunluk):
+    for a in range(uzunluk):
         şifre += random.choice(karakterler)
 
 
